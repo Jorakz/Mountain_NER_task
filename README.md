@@ -26,8 +26,8 @@ The model was fine-tuned on the annotated dataset to classify mountain names eff
 * inference.py: Runs the fine-tuned BERT model to identify mountain names from text.
 * train.py: Trains the BERT model for mountain name classification.
 * requirements.txt: Lists the required libraries for the project.
-* link_to_model_weights: Provides a link to the fine-tuned model weights.
-
+* link_to_model_weights.txt: Provides a link to the fine-tuned model weights.
+* demo.ipynb: jupyter notebook with demo.
 ## Conclusion
 
 This project demonstrates the extraction of mountain names from text using NER and neural networks. Future improvements could enhance the model’s accuracy and robustness.
